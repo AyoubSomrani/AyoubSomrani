@@ -169,7 +169,7 @@ A travel platform designed to promote tourism in Tunisia and connect travelers.
 </table>
 
 <p align="center">
-  <a href="https://github.com/AyoubSomranid?tab=repositories">
+  <a href="https://github.com/AyoubSomrani?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -181,12 +181,12 @@ A travel platform designed to promote tourism in Tunisia and connect travelers.
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=AyoubSomranid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=AyoubSomrani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&include_all_commits=true"
     alt="Ayoub's GitHub Statistics"
   />
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubSomranid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubSomrani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF"
     alt="Most Used Programming Languages"
   />
 </p>
@@ -205,7 +205,7 @@ A travel platform designed to promote tourism in Tunisia and connect travelers.
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/AyoubSomranid/AyoubSomranid/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/AyoubSomranid/AyoubSomrani/output/github-snake.svg"
     alt="GitHub Contribution Snake"
     width="100%"
   />
@@ -216,7 +216,7 @@ A travel platform designed to promote tourism in Tunisia and connect travelers.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/AyoubSomranid">
+  <a href="https://github.com/AyoubSomrani">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
