@@ -1,6 +1,7 @@
+```html
 <!--
   AYOUB SOMRANI — GITHUB PROFILE
-  GitHub: AyoubSomranid
+  GitHub: AyoubSomrani
 -->
 
 <!-- ================= CUSTOM HEADER ================= -->
@@ -127,26 +128,6 @@ I enjoy exploring different areas of technology, from web and mobile development
 <tr>
 <td width="50%" valign="top">
 
-<h3>♻️ RecyVision</h3>
-
-A recycling center management application built to simplify employee administration and management operations.
-
-**Key Features**
-
-* Employee CRUD operations
-* Authentication and access rights
-* Employee search by identifier
-* Sorting and statistics
-* PDF export
-* Data visualization
-
-**Technologies**
-
-`C++` `Qt` `Oracle`
-
-</td>
-<td width="50%" valign="top">
-
 <h3>🌍 Voyages</h3>
 
 A travel platform designed to promote tourism in Tunisia and connect travelers.
@@ -163,6 +144,13 @@ A travel platform designed to promote tourism in Tunisia and connect travelers.
 **Technologies**
 
 `Flutter` `JWT` `API` `AI`
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🚀 More Projects Coming Soon</h3>
+
+I'm continuously working on academic and personal projects involving software engineering, web development, AI, and connected systems.
 
 </td>
 </tr>
@@ -194,7 +182,7 @@ A travel platform designed to promote tourism in Tunisia and connect travelers.
 <p align="center">
   <img
     width="95%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AyoubSomranid&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AyoubSomrani&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"
     alt="GitHub Contribution Streak"
   />
 </p>
@@ -205,7 +193,7 @@ A travel platform designed to promote tourism in Tunisia and connect travelers.
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/AyoubSomranid/AyoubSomrani/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/AyoubSomrani/AyoubSomrani/output/github-snake.svg"
     alt="GitHub Contribution Snake"
     width="100%"
   />
@@ -240,3 +228,4 @@ A travel platform designed to promote tourism in Tunisia and connect travelers.
   <br/>
   <i>Code • Create • Innovate • Repeat 🚀</i>
 </p>
+```
